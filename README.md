@@ -1,16 +1,9 @@
 # Advanced-Face-and-Eye-Detection-Using-OpenCV
 
-
-Replace `face det/face and eye detection.png` with the actual path to your photo file within the repository.
-
-### Example
-
-Let's say your project is a face and eye detection system, and your photo is named `face and eye detection.png` and located in the root directory of your repository.
-
 ```markdown
 # Face and Eye Detection System
+![Project Photo](path/to/project_photo.jpg)
 
-![Face and Eye Detection](face and eye detection.png)
 
 ## Project Description
 
