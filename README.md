@@ -2,7 +2,7 @@
 
 ```markdown
 # Face and Eye Detection System
-![Project Photo](path/to/project_photo.jpg)
+![Project Photo](face det/face and eye detection.png)
 
 
 ## Project Description
